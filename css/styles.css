@@ -1,0 +1,199 @@
+body{
+  background-color:white;
+  text-align: center;
+  margin: 0
+}
+hr{
+  border-style: none;
+  border-top-style: double;
+  height:11px;
+  border-width: 10px;
+  width: 5%;
+}
+p{
+  font-size: 30px;
+  margin-bottom: 0;
+}
+h2{
+  font-size: 30px;
+  font-weight: normal;
+  padding-bottom: 40px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Chilanka', serif;
+  font-size: 562.5%;}
+h3{
+  font-size: 40px;
+  font-family: 'Cormorant Garamond', serif;
+}
+.skill-row{
+  width: 65%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill1{
+  font-size: 60px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: #DA1212;
+}
+.temp1{
+  margin-top: 50px;
+}
+.temp2{
+  margin-bottom: 100px;
+}
+.skill2{
+  font-size: 50px;
+  color: #DA1212;
+  padding-bottom: 0;
+}
+.color1{
+  margin-top: 125px;
+  color: #FA58B6;
+  font-size: 40px
+}
+.color3{
+  margin-top: 150px;
+  color: #FA58B6;
+  font-size: 40px
+}
+.align{
+  text-align: left;
+  line-height: 1.5;
+}
+.topdiv{
+  background-image: url(https://th.bing.com/th/id/R.bf3c4da6f23c54afa7f3eabbfb541898?rik=459bdL9bw6ZGow&riu=http%3a%2f%2fhdqwalls.com%2fwallpapers%2flake-aurora-po.jpg&ehk=aqKKaYxiklDgVHtT7Et9ujVY%2bDl%2boMThtI4nvWCv3%2f8%3d&risl=&pid=ImgRaw&r=0);
+  color: white;
+  height: auto;
+  width: auto;
+  margin: 0;
+  background-size: cover;
+  text-align: center;
+  padding-top: 150px;
+  position: relative;
+}
+.middiv{
+  background-color: #1A1A40;
+  color: white;
+  background-size: auto;
+  height:auto;
+  width: auto;
+  margin:0;
+}
+.bottom{
+  background-color: #FA58B6;
+  color: white;
+  margin:0;
+  height: 200px;
+}
+a{
+  color: white;
+  font-size: 20px;
+}
+.topc{
+  position: absolute;
+  right: 20%;
+  width: auto;
+  height: 50px;
+  top: 50px;
+}
+.bottomc{
+  position: absolute;
+  left: 20%;
+  width: auto;
+  height: 50px;
+  bottom: 50%;
+}
+.mountain{
+  height: 500px;
+  width: auto;
+  margin: 0 auto 0 auto;
+}
+.profilepic{
+  height: 300px;
+  border-radius: 100%;
+  margin-top: 75px;
+}
+.pic1{
+  width: 25%;
+  height: 25%;
+  border-radius: 100%;
+  text-align: left;
+  float: left;
+  margin-right: 30px;
+}
+.pic2{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  text-align: left;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #d0ff00);
+  background-image: -moz-linear-gradient(top, #ff0000, #d0ff00);
+  background-image: -ms-linear-gradient(top, #ff0000, #d0ff00);
+  background-image: -o-linear-gradient(top, #ff0000, #d0ff00);
+  background-image: linear-gradient(to bottom, #ff0000, #d0ff00);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 36px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.contact-me{
+  height: 350px;
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(#3cb0fd, #3498db);
+  background-image: -o-linear-gradient(#3cb0fd, #3498db);
+  background-image: linear-gradient(#3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.footer-link{
+  position: absolute;
+  font-size: 30px;
+  color: #1A1A40;
+}
+.surname{
+  position: absolute;
+  left:0;
+  right:0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+    color: #1A1A40
+}
+.contactdesc{
+  margin-bottom: 100px;
+}
+.link1{
+  left:0;
+  right:500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+.link2{
+  left:0;
+  right:0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+.link3{
+  left:500px;
+  right:0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
